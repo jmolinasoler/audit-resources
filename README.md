@@ -2,7 +2,9 @@
 
 A curated collection of tools, guides, and references for auditing and security assessments.
 
-**Docker Image:** [`aderyn`](https://github.com/aderyn/audit-resources/pkgs/container/aderyn)
+**Docker Images:**
+- [`aderyn`](https://github.com/aderyn/audit-resources/pkgs/container/aderyn)
+- [`solidity-metrics`](https://github.com/jmolinasoler/audit-resources/pkgs/container/solidity-metrics)
 
 ## Contents
 
